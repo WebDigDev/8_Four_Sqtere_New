@@ -1,0 +1,111 @@
+.features1, .features1-1, .features2, .features2-2, .features3, .features3-3, .features4, .features4-4, .features5, .features5-5, .result1, .result2, .result3, .result4, .result5, .result6, .result7, .result8{
+	background: url(sprites.png) no-repeat;
+}
+
+.features1{
+	background-position: -2px -3px ;
+	width: 128px;
+	height: 104px;
+}
+
+.features1-1{
+	background-position: -152px -1px ;
+	width: 128px;
+	height: 104px;
+}
+
+.features2{
+	background-position: -301px -1px ;
+	width: 121px;
+	height: 99px;
+}
+
+.features2-2{
+	background-position: -450px -3px ;
+	width: 121px;
+	height: 99px;
+}
+
+.features3{
+	background-position: -4px -150px ;
+	width: 114px;
+	height: 114px;
+}
+
+.features3-3{
+	background-position: -150px -148px ;
+	width: 114px;
+	height: 114px;
+}
+
+.features4{
+	background-position: -300px -150px ;
+	width: 108px;
+	height: 110px;
+}
+
+.features4-4{
+	background-position: -451px -147px ;
+	width: 108px;
+	height: 110px;
+}
+
+.features5{
+	background-position: 0 -300px ;
+	width: 110px;
+	height: 116px;
+}
+
+.features5-5{
+	background-position: -151px -297px ;
+	width: 110px;
+	height: 116px;
+}
+
+.result1{
+	background-position: -299px -299px ;
+	width: 74px;
+	height: 74px;
+}
+
+.result2{
+	background-position: -402px -298px ;
+	width: 75px;
+	height: 75px;
+}
+
+.result3{
+	background-position: -503px -301px ;
+	width: 74px;
+	height: 74px;
+}
+
+.result4{
+	background-position: -603px -300px ;
+	width: 74px;
+	height: 74px;
+}
+
+.result5{
+	background-position: -7px -449px ;
+	width: 75px;
+	height: 75px;
+}
+
+.result6{
+	background-position: -103px -448px ;
+	width: 75px;
+	height: 75px;
+}
+
+.result7{
+	background-position: -203px -448px ;
+	width: 74px;
+	height: 74px;
+}
+
+.result8{
+	background-position: -301px -447px ;
+	width: 74px;
+	height: 74px;
+}
